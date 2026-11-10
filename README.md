@@ -84,6 +84,7 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 
 ## 📊 GitHub Statistics
 
+
 <div align="center">
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=edithnq16&show_icons=true&theme=tokyonight&hide_border=true)
