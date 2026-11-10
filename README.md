@@ -6,11 +6,6 @@ Egresada de **Informática y Desarrollo de Aplicaciones Web en SENATI**, interes
 
 Actualmente estoy fortaleciendo mis conocimientos en PHP, Laravel y desarrollo backend, mientras continúo aprendiendo nuevas herramientas y tecnologías.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Gatito programando">
-  <p>¡Gracias por visitar mi perfil! 🐾</p>
-</div>
-
 ---
 
 ### 🚀 Sobre mí
@@ -86,7 +81,6 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 
 ---
 
-✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
 
 ## 📊 GitHub Statistics
 
@@ -98,5 +92,12 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edithnq16&theme=tokyonight)
 
+---
 
+✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Gatito programando">
+  <p>¡Gracias por visitar mi perfil! 🐾</p>
+</div>
 
