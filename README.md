@@ -92,7 +92,9 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edithnq16&theme=tokyonight)
 </div>
+
 ---
+
 
 ✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
 
