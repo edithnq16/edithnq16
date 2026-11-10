@@ -81,11 +81,10 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 
 ---
 
+✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-## 📊 GitHub Statistics
 
 ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=edithnq16&show_icons=true&theme=tokyonight&hide_border=true)
 
@@ -94,6 +93,8 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edithnq16&theme=tokyonight)
 
 </div>
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180" alt="Gatito programando">
+  <p>¡Gracias por visitar mi perfil! 🐾</p>
+</div>
 
-
-✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
