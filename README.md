@@ -91,7 +91,7 @@ Aplicación web desarrollada para optimizar el proceso de gestión de certificad
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=edithnq16&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=edithnq16&theme=tokyonight)
-
+</div>
 ---
 
 ✨ *Siempre aprendiendo, practicando y construyendo nuevos proyectos.*
